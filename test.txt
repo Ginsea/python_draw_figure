@@ -1,0 +1,8 @@
+#title	This is a test figure
+#xlabel	Scores
+#label	col1	std1	col2	std2
+G1	20	1	30	2
+G2	30	4	40	1
+G3	40	5	30	2
+G4	50	2	40	1
+G5	60	1	25	3
